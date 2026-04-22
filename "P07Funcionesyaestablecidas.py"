@@ -1,0 +1,4 @@
+# Raquel jacyve de leon najera
+texto = "Hola Mundo"
+print(texto.upper())
+print(len(texto))
