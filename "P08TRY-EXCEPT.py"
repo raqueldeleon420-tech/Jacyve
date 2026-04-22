@@ -1,0 +1,6 @@
+# Raquel jacyve de leon najera
+try:
+    num = int(input("Ingresa un número: "))
+    print("Número ingresado:", num)
+except ValueError:
+    print("Error: no ingresaste un número válido")
