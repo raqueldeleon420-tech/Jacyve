@@ -1,0 +1,5 @@
+# Raquel jacyve de leon najera
+precio = float(input("Precio del producto: "))
+descuento = float(input("Porcentaje de descuento: "))
+total = precio - (precio * descuento / 100)
+print("Total a pagar:", total)
