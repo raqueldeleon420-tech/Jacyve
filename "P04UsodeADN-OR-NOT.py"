@@ -1,0 +1,8 @@
+# Raquel jacyve de leon najera
+edad = int(input("Edad: "))
+tiene_credencial = input("¿Tiene credencial? (s/n): ")
+
+if edad >= 18 and tiene_credencial == "s":
+    print("Acceso permitido")
+else:
+    print("Acceso denegado")
