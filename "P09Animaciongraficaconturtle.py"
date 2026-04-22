@@ -1,0 +1,7 @@
+# Raquel jacyve de leon najera
+import turtle
+t = turtle.Turtle()
+for i in range(36):
+    t.forward(50)
+    t.right(170)
+turtle.done()
