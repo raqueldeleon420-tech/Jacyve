@@ -1,0 +1,8 @@
+# Raquel jacyve de leon najera
+num = int(input("Ingresa un número: "))
+if num > 0:
+    print("Número positivo")
+elif num < 0:
+    print("Número negativo")
+else:
+    print("Es cero")
